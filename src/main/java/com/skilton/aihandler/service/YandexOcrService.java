@@ -1,4 +1,4 @@
-package com.skillton.aihandler.service;
+package com.skilton.aihandler.service;
 
 import org.springframework.web.multipart.MultipartFile;
 

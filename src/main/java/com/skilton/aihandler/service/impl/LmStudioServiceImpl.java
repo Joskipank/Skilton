@@ -1,9 +1,9 @@
-package com.skillton.aihandler.service.impl;
+package com.skilton.aihandler.service.impl;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.skillton.aihandler.dto.response.AiResponseDto;
-import com.skillton.aihandler.service.LmStudioService;
+import com.skilton.aihandler.dto.response.AiResponseDto;
+import com.skilton.aihandler.service.LmStudioService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

@@ -1,4 +1,4 @@
-package com.skillton.aihandler.dto.request;
+package com.skilton.aihandler.dto.request;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.skillton.aihandler.enums;
+package com.skilton.aihandler.enums;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;

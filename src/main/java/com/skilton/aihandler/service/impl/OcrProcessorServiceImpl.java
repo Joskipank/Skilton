@@ -1,9 +1,9 @@
-package com.skillton.aihandler.service.impl;
+package com.skilton.aihandler.service.impl;
 
-import com.skillton.aihandler.dto.response.AiResponseDto;
-import com.skillton.aihandler.service.LmStudioService;
-import com.skillton.aihandler.service.OcrProcessorService;
-import com.skillton.aihandler.service.YandexOcrService;
+import com.skilton.aihandler.dto.response.AiResponseDto;
+import com.skilton.aihandler.service.LmStudioService;
+import com.skilton.aihandler.service.OcrProcessorService;
+import com.skilton.aihandler.service.YandexOcrService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 

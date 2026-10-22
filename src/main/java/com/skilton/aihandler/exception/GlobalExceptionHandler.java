@@ -1,4 +1,4 @@
-package com.skillton.aihandler.exception;
+package com.skilton.aihandler.exception;
 
 
 import org.springframework.http.HttpStatus;

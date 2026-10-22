@@ -1,4 +1,4 @@
-package com.skillton.aihandler.dto.response;
+package com.skilton.aihandler.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;

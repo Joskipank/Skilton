@@ -1,7 +1,6 @@
-package com.skillton.aihandler.dto.response;
+package com.skilton.aihandler.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.skillton.aihandler.enums.MaterialTypeEnum;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

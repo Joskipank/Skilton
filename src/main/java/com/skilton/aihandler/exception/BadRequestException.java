@@ -1,4 +1,4 @@
-package com.skillton.aihandler.exception;
+package com.skilton.aihandler.exception;
 
 public class BadRequestException extends RuntimeException {
     public BadRequestException(String message) {

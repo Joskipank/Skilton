@@ -1,4 +1,4 @@
-package com.skillton.aihandler.exception;
+package com.skilton.aihandler.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

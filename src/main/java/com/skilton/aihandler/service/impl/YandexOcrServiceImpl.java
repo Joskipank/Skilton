@@ -1,8 +1,8 @@
-package com.skillton.aihandler.service.impl;
+package com.skilton.aihandler.service.impl;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.skillton.aihandler.service.YandexOcrService;
+import com.skilton.aihandler.service.YandexOcrService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

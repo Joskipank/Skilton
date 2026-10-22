@@ -1,7 +1,7 @@
-package com.skillton.aihandler.controller;
+package com.skilton.aihandler.controller;
 
-import com.skillton.aihandler.dto.response.AiResponseDto;
-import com.skillton.aihandler.service.OcrProcessorService;
+import com.skilton.aihandler.dto.response.AiResponseDto;
+import com.skilton.aihandler.service.OcrProcessorService;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;

@@ -1,6 +1,6 @@
-package com.skillton.aihandler.service;
+package com.skilton.aihandler.service;
 
-import com.skillton.aihandler.dto.response.AiResponseDto;
+import com.skilton.aihandler.dto.response.AiResponseDto;
 import org.springframework.web.multipart.MultipartFile;
 
 public interface OcrProcessorService {
