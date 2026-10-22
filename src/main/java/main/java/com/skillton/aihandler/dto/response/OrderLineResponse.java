@@ -18,6 +18,6 @@ public class OrderLineResponse {
     private Integer height; // Требуемая высота (в мм)
     private Integer length; // Требуемая длина (строго в мм)
     private Integer count; // Количество (шт)
-    private MaterialTypeEnum material; // Материал (например, Сосна, Ель, или 'Не указан')
+    private String material; // Материал (например, Сосна, Ель, или 'Не указан')
     private String comment; // Комментарий (фаски, сроки, имя клиента, специфика обработки)
 }
